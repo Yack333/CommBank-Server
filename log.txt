@@ -1,0 +1,35 @@
+commit 3848375f63ab5ec0f9985b42cb8b9e0c4f7e731c
+Author: Giacomo Pessotto <giacomopesso@gmail.com>
+Date:   Thu Nov 3 16:08:59 2022 +0000
+
+    Covering `GetGoalsForUser` route
+
+commit 5bddb7a7f2c29724efc8fd118eee7784e1002b2c
+Author: Giacomo Pessotto <giacomopesso@gmail.com>
+Date:   Wed Nov 2 17:01:27 2022 +0000
+
+    task 1 final
+
+commit 442505f37d29daae5a1dfe4f320f36b07b522211
+Author: Giacomo Pessotto <giacomopesso@gmail.com>
+Date:   Wed Nov 2 12:19:04 2022 +0000
+
+    added data
+
+commit 8edffcad1bda6a8fd1ab2f29416cb00293beaec2
+Author: Giacomo Pessotto <giacomopesso@gmail.com>
+Date:   Wed Nov 2 11:05:18 2022 +0000
+
+    connect server
+
+commit 796a3eb666c70dfd6e4e70e9b1b902ffbb51c7ce
+Author: mramotar <mramotar@dropbox.com>
+Date:   Mon Oct 31 09:42:07 2022 -0400
+
+    Remove duplicates
+
+commit 19b532eaa1749b5c5904358c8f313df59752511b
+Author: mramotar <mramotar@dropbox.com>
+Date:   Mon Oct 31 09:29:01 2022 -0400
+
+    Starter
